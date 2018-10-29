@@ -1,0 +1,20 @@
+﻿
+
+
+#size-10-100 {
+    width: 10%;
+    height: 100%;
+    float: left;
+}
+
+.color-blue {
+    background-color: blue;
+}
+
+.color-green {
+    background-color: green;
+}
+
+.color-red {
+    background-color: red;
+}
