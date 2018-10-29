@@ -1,0 +1,27 @@
+﻿#size-50-left {
+    width: 50%;
+    height: 50%;
+    float: left;
+}
+
+#size-50-right {
+    width: 50%;
+    height: 50%;
+    float: right;
+}
+
+.color-blue {
+    background-color: blue;
+}
+
+.color-yellow {
+    background-color: yellow;
+}
+
+.color-green {
+    background-color: green;
+}
+
+.color-red {
+    background-color: red;
+}
